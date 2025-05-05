@@ -8,3 +8,4 @@ class mahasiswa{
         cout << "No Induk = " << nim << endl;
     }
 };
+
